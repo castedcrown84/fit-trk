@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start":"node server.js",
+    "start": "node server.js",
     "seed": "node seeders/seed.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^6.0.11",
+    "mongoose": "^5.13.6",
     "morgan": "^1.10.0"
   }
 }
